@@ -48,11 +48,11 @@ Art: post-03.png / Film: post-03.mp4
 Visuals are illustrations. They do not represent recorded transactions or agent operations.
 
 
-## Planned pairing: SPOOL / PLTRX
+## Planned pairing: SPOOL / PLTR
 
-Follow the thread. Connect the evidence. SPOOL brings a source-first investigation desk to Solana, with a planned Pump.fun pairing against PLTRX, the Palantir-linked xStock.
+Follow the thread. Connect the evidence. SPOOL brings a source-first investigation desk to Solana, with a planned Pump.fun pairing against PLTR, the Palantir-linked xStock.
 
-PLTRX appears on Pump.fun's supported pair list, checked October 7, 2026. This is a planned quote asset, not an active SPOOL market, stock backing or a Palantir partnership. SPOOL holders do not gain shares or dividend rights from this pairing. The tool stays open without buying either token. Availability and issuer eligibility must be rechecked at launch.
+PLTR appears on Pump.fun's supported pair list, checked October 7, 2026. This is a planned quote asset, not an active SPOOL market, stock backing or a Palantir partnership. SPOOL holders do not gain shares or dividend rights from this pairing. The tool stays open without buying either token. Availability and issuer eligibility must be rechecked at launch.
 
 Official source: https://pump.fun/docs/custom-pairs
 
